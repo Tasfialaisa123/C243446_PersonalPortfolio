@@ -1,4 +1,3 @@
-
 const projectForm = document.getElementById("projectForm");
 const projectList = document.getElementById("projectList");
 const projectCount = document.getElementById("projectCount");
